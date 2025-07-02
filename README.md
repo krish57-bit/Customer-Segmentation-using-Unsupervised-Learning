@@ -37,7 +37,7 @@ This project involves analyzing marketing data to segment customers based on the
 ---
 
 ## 📈 Sample Visuals
-*(Include screenshots of pairplots, heatmaps, elbow curves, or cluster visualizations if possible)*
+*(Included screenshots of pairplots, heatmaps, elbow curves, or cluster visualizations)*
 
 ---
 
